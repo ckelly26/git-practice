@@ -1,3 +1,3 @@
-#This is my headying
+# This is my heading
 
 hello world
